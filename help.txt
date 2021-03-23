@@ -1,0 +1,2 @@
+You can read about the application from here :
+https://github.com/walgt/minimal-absent-words
